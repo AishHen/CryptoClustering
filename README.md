@@ -54,3 +54,7 @@ For this challenge, Python and unsupervised learning methods were used to predic
         y-axis = price_change_percentage_7d
 
     ![Alt text](image-4.png)
+
+*Resources Used*
+1. Class GitLab Exercises used as reference
+2. AsktheClass Slack Channel used to discuss charting _Composite Plots_
