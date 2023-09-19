@@ -1,9 +1,10 @@
 # CryptoClustering
 
-*Description:*
+**Description:**
+
 For this challenge, Python and unsupervised learning methods were used to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
-*Steps:*
+**Steps:**
 1. Preparing the Data:
     A. Used the StandardScaler() module tol normalize the data from the CSV file.
     B. Created a DataFrame with the scaled data and set the coin_id as the index for the new DataFrame
@@ -55,6 +56,6 @@ For this challenge, Python and unsupervised learning methods were used to predic
 
     ![Alt text](image-4.png)
 
-*Resources Used*
+**Resources Used**
 1. Class GitLab Exercises used as reference
 2. AsktheClass Slack Channel used to discuss charting _Composite Plots_
